@@ -1,0 +1,1494 @@
+Feb 05, 2022 7:25:52 PM Loggers.FileLogger <init>
+INFO: Your FileLogger is ready!
+Feb 05, 2022 7:25:53 PM Game.ReadFromFile read
+INFO: Duel number 1 has started!
+Feb 05, 2022 7:25:53 PM Game.ReadFromFile read
+INFO: Going into the Arena is the first coach - Kiefer Durwood, who is 40 years old!
+Feb 05, 2022 7:25:53 PM Game.ReadFromFile read
+INFO: Going into the Arena is the second coach - Dwight Eaton, who is 25 years old!
+Feb 05, 2022 7:25:53 PM Game.ReadFromFile read
+INFO: FIRST ADVENTURE BEGINS!
+Feb 05, 2022 7:25:53 PM Game.FightNeutrel2 fight
+INFO: This duel is between the following two pokemons!
+Feb 05, 2022 7:25:53 PM Game.FightNeutrel2 fight
+INFO: Pokemon{name='Bulbasaur', HP=44, normalAttack=0, specialAttack=10, normalDefense=5, specialDefense=3, ability1={damage=6, stun=false, dodge=false, coolDown=4}, ability2={damage=5, stun=false, dodge=false, coolDown=3}}
+Feb 05, 2022 7:25:53 PM Game.FightNeutrel2 fight
+INFO: Pokemon{name='Neutrel2', HP=20, normalAttack=4, specialAttack=0, normalDefense=1, specialDefense=1}
+Feb 05, 2022 7:25:53 PM Game.FightNeutrel1 getStunAbility2
+INFO: Pokemon{name='Bulbasaur', HP=44, normalAttack=0, specialAttack=10, normalDefense=5, specialDefense=3, ability1={damage=6, stun=false, dodge=false, coolDown=4}, ability2={damage=5, stun=false, dodge=false, coolDown=3}}
+Feb 05, 2022 7:25:53 PM Game.FightNeutrel1 getStunAbility2
+INFO: Pokemon{name='Neutrel2', HP=15, normalAttack=4, specialAttack=0, normalDefense=1, specialDefense=1}
+Feb 05, 2022 7:25:53 PM Game.FightNeutrel1 getStunAbility2
+INFO: Cooldown ability 2 is 3
+Feb 05, 2022 7:25:53 PM Game.FightNeutrel1 getStunAbility1
+INFO: Pokemon{name='Bulbasaur', HP=44, normalAttack=0, specialAttack=10, normalDefense=5, specialDefense=3, ability1={damage=6, stun=false, dodge=false, coolDown=4}, ability2={damage=5, stun=false, dodge=false, coolDown=3}}
+Feb 05, 2022 7:25:53 PM Game.FightNeutrel1 getStunAbility1
+INFO: Pokemon{name='Neutrel2', HP=9, normalAttack=4, specialAttack=0, normalDefense=1, specialDefense=1}
+Feb 05, 2022 7:25:53 PM Game.FightNeutrel1 getStunAbility1
+INFO: Cooldown ability 1 is 4
+Feb 05, 2022 7:25:53 PM Game.FightNeutrel1 getStunAbility1
+INFO: Cooldown ability 2 is 2
+Feb 05, 2022 7:25:53 PM Game.FightNeutrel2 fight
+INFO: Bulbasaur attacks and Neutrel2 attacks!
+Feb 05, 2022 7:25:53 PM Game.FightNeutrel1 checkCooldown
+INFO: Pokemon{name='Bulbasaur', HP=44, normalAttack=0, specialAttack=10, normalDefense=5, specialDefense=3, ability1={damage=6, stun=false, dodge=false, coolDown=4}, ability2={damage=5, stun=false, dodge=false, coolDown=3}}
+Feb 05, 2022 7:25:53 PM Game.FightNeutrel1 checkCooldown
+INFO: Pokemon{name='Neutrel2', HP=-1, normalAttack=4, specialAttack=0, normalDefense=1, specialDefense=1}
+Feb 05, 2022 7:25:53 PM Game.FightNeutrel1 checkCooldown
+INFO: Cooldown ability 1 is 3
+Feb 05, 2022 7:25:53 PM Game.FightNeutrel1 checkCooldown
+INFO: Cooldown ability 2 is 1
+Feb 05, 2022 7:25:53 PM Game.FightNeutrel2 fight
+INFO: Bulbasaur wins!
+Feb 05, 2022 7:25:53 PM Game.Arena startDuel
+INFO: The first coach wins!
+Feb 05, 2022 7:25:53 PM Game.Arena startDuel
+INFO: The pokemon is now boosted
+Feb 05, 2022 7:25:53 PM Game.Arena startDuel
+INFO: Pokemon{name='Bulbasaur', HP=45, normalAttack=0, specialAttack=11, normalDefense=6, specialDefense=4, ability1={damage=6, stun=false, dodge=false, coolDown=4}, ability2={damage=5, stun=false, dodge=false, coolDown=3}}
+Feb 05, 2022 7:25:53 PM Game.FightNeutrel2 fight
+INFO: This duel is between the following two pokemons!
+Feb 05, 2022 7:25:53 PM Game.FightNeutrel2 fight
+INFO: Pokemon{name='Pikachu', HP=45, normalAttack=0, specialAttack=7, normalDefense=4, specialDefense=5, ability1={damage=6, stun=false, dodge=false, coolDown=4}, ability2={damage=4, stun=true, dodge=true, coolDown=5}}
+Feb 05, 2022 7:25:53 PM Game.FightNeutrel2 fight
+INFO: Pokemon{name='Neutrel2', HP=20, normalAttack=4, specialAttack=0, normalDefense=1, specialDefense=1}
+Feb 05, 2022 7:25:53 PM Game.FightNeutrel2 fight
+INFO: Pikachu uses ability 1 and Neutrel2 attacks!
+Feb 05, 2022 7:25:53 PM Game.FightNeutrel1 getStunAbility1
+INFO: Pokemon{name='Pikachu', HP=45, normalAttack=0, specialAttack=7, normalDefense=4, specialDefense=5, ability1={damage=6, stun=false, dodge=false, coolDown=4}, ability2={damage=4, stun=true, dodge=true, coolDown=5}}
+Feb 05, 2022 7:25:53 PM Game.FightNeutrel1 getStunAbility1
+INFO: Pokemon{name='Neutrel2', HP=14, normalAttack=4, specialAttack=0, normalDefense=1, specialDefense=1}
+Feb 05, 2022 7:25:53 PM Game.FightNeutrel1 getStunAbility1
+INFO: Cooldown ability 1 is 4
+Feb 05, 2022 7:25:53 PM Game.FightNeutrel2 fight
+INFO: Pikachu attacks and Neutrel2 attacks!
+Feb 05, 2022 7:25:53 PM Game.FightNeutrel1 checkCooldown
+INFO: Pokemon{name='Pikachu', HP=45, normalAttack=0, specialAttack=7, normalDefense=4, specialDefense=5, ability1={damage=6, stun=false, dodge=false, coolDown=4}, ability2={damage=4, stun=true, dodge=true, coolDown=5}}
+Feb 05, 2022 7:25:53 PM Game.FightNeutrel1 checkCooldown
+INFO: Pokemon{name='Neutrel2', HP=7, normalAttack=4, specialAttack=0, normalDefense=1, specialDefense=1}
+Feb 05, 2022 7:25:53 PM Game.FightNeutrel1 checkCooldown
+INFO: Cooldown ability 1 is 3
+Feb 05, 2022 7:25:53 PM Game.FightNeutrel2 fight
+INFO: Pikachu attacks and Neutrel2 attacks!
+Feb 05, 2022 7:25:53 PM Game.FightNeutrel1 checkCooldown
+INFO: Pokemon{name='Pikachu', HP=45, normalAttack=0, specialAttack=7, normalDefense=4, specialDefense=5, ability1={damage=6, stun=false, dodge=false, coolDown=4}, ability2={damage=4, stun=true, dodge=true, coolDown=5}}
+Feb 05, 2022 7:25:53 PM Game.FightNeutrel1 checkCooldown
+INFO: Pokemon{name='Neutrel2', HP=0, normalAttack=4, specialAttack=0, normalDefense=1, specialDefense=1}
+Feb 05, 2022 7:25:53 PM Game.FightNeutrel1 checkCooldown
+INFO: Cooldown ability 1 is 2
+Feb 05, 2022 7:25:53 PM Game.FightNeutrel2 fight
+INFO: Pikachu wins!
+Feb 05, 2022 7:25:53 PM Game.Arena startDuel
+INFO: The second coach wins!
+Feb 05, 2022 7:25:53 PM Game.Arena startDuel
+INFO: The pokemon is now boosted
+Feb 05, 2022 7:25:53 PM Game.Arena startDuel
+INFO: Pokemon{name='Pikachu', HP=46, normalAttack=0, specialAttack=8, normalDefense=5, specialDefense=6, ability1={damage=6, stun=false, dodge=false, coolDown=4}, ability2={damage=4, stun=true, dodge=true, coolDown=5}}
+Feb 05, 2022 7:25:53 PM Game.FightNeutrel1 fight
+INFO: This duel is between the following two pokemons!
+Feb 05, 2022 7:25:53 PM Game.FightNeutrel1 fight
+INFO: Pokemon{name='Bulbasaur', HP=45, normalAttack=0, specialAttack=11, normalDefense=6, specialDefense=4, ability1={damage=6, stun=false, dodge=false, coolDown=4}, ability2={damage=5, stun=false, dodge=false, coolDown=3}}
+Feb 05, 2022 7:25:53 PM Game.FightNeutrel1 fight
+INFO: Pokemon{name='Neutrel1', HP=10, normalAttack=3, specialAttack=0, normalDefense=1, specialDefense=1}
+Feb 05, 2022 7:25:53 PM Game.FightNeutrel1 fight
+INFO: Bulbasaur attacks and Neutrel1 attacks!
+Feb 05, 2022 7:25:53 PM Game.FightNeutrel1 checkCooldown
+INFO: Pokemon{name='Bulbasaur', HP=45, normalAttack=0, specialAttack=11, normalDefense=6, specialDefense=4, ability1={damage=6, stun=false, dodge=false, coolDown=4}, ability2={damage=5, stun=false, dodge=false, coolDown=3}}
+Feb 05, 2022 7:25:53 PM Game.FightNeutrel1 checkCooldown
+INFO: Pokemon{name='Neutrel1', HP=-1, normalAttack=3, specialAttack=0, normalDefense=1, specialDefense=1}
+Feb 05, 2022 7:25:53 PM Game.FightNeutrel1 fight
+INFO: Bulbasaur wins!
+Feb 05, 2022 7:25:53 PM Game.Arena startDuel
+INFO: The first coach wins!
+Feb 05, 2022 7:25:53 PM Game.Arena startDuel
+INFO: The pokemon is now boosted
+Feb 05, 2022 7:25:53 PM Game.Arena startDuel
+INFO: Pokemon{name='Bulbasaur', HP=46, normalAttack=0, specialAttack=12, normalDefense=7, specialDefense=5, ability1={damage=6, stun=false, dodge=false, coolDown=4}, ability2={damage=5, stun=false, dodge=false, coolDown=3}}
+Feb 05, 2022 7:25:53 PM Game.FightNeutrel1 fight
+INFO: This duel is between the following two pokemons!
+Feb 05, 2022 7:25:53 PM Game.FightNeutrel1 fight
+INFO: Pokemon{name='Pikachu', HP=46, normalAttack=0, specialAttack=8, normalDefense=5, specialDefense=6, ability1={damage=6, stun=false, dodge=false, coolDown=4}, ability2={damage=4, stun=true, dodge=true, coolDown=5}}
+Feb 05, 2022 7:25:53 PM Game.FightNeutrel1 fight
+INFO: Pokemon{name='Neutrel1', HP=10, normalAttack=3, specialAttack=0, normalDefense=1, specialDefense=1}
+Feb 05, 2022 7:25:53 PM Game.FightNeutrel1 getStunAbility1
+INFO: Pokemon{name='Pikachu', HP=46, normalAttack=0, specialAttack=8, normalDefense=5, specialDefense=6, ability1={damage=6, stun=false, dodge=false, coolDown=4}, ability2={damage=4, stun=true, dodge=true, coolDown=5}}
+Feb 05, 2022 7:25:53 PM Game.FightNeutrel1 getStunAbility1
+INFO: Pokemon{name='Neutrel1', HP=4, normalAttack=3, specialAttack=0, normalDefense=1, specialDefense=1}
+Feb 05, 2022 7:25:53 PM Game.FightNeutrel1 getStunAbility1
+INFO: Cooldown ability 1 is 4
+Feb 05, 2022 7:25:53 PM Game.FightNeutrel1 fight
+INFO: Pikachu attacks and Neutrel1 attacks!
+Feb 05, 2022 7:25:53 PM Game.FightNeutrel1 checkCooldown
+INFO: Pokemon{name='Pikachu', HP=46, normalAttack=0, specialAttack=8, normalDefense=5, specialDefense=6, ability1={damage=6, stun=false, dodge=false, coolDown=4}, ability2={damage=4, stun=true, dodge=true, coolDown=5}}
+Feb 05, 2022 7:25:53 PM Game.FightNeutrel1 checkCooldown
+INFO: Pokemon{name='Neutrel1', HP=-4, normalAttack=3, specialAttack=0, normalDefense=1, specialDefense=1}
+Feb 05, 2022 7:25:53 PM Game.FightNeutrel1 checkCooldown
+INFO: Cooldown ability 1 is 3
+Feb 05, 2022 7:25:53 PM Game.FightNeutrel1 fight
+INFO: Pikachu wins!
+Feb 05, 2022 7:25:53 PM Game.Arena startDuel
+INFO: The second coach wins!
+Feb 05, 2022 7:25:53 PM Game.Arena startDuel
+INFO: The pokemon is now boosted
+Feb 05, 2022 7:25:53 PM Game.Arena startDuel
+INFO: Pokemon{name='Pikachu', HP=47, normalAttack=0, specialAttack=9, normalDefense=6, specialDefense=7, ability1={damage=6, stun=false, dodge=false, coolDown=4}, ability2={damage=4, stun=true, dodge=true, coolDown=5}}
+Feb 05, 2022 7:25:53 PM Game.FightNeutrel1 fight
+INFO: This duel is between the following two pokemons!
+Feb 05, 2022 7:25:53 PM Game.FightNeutrel1 fight
+INFO: Pokemon{name='Bulbasaur', HP=46, normalAttack=0, specialAttack=12, normalDefense=7, specialDefense=5, ability1={damage=6, stun=false, dodge=false, coolDown=4}, ability2={damage=5, stun=false, dodge=false, coolDown=3}}
+Feb 05, 2022 7:25:53 PM Game.FightNeutrel1 fight
+INFO: Pokemon{name='Neutrel1', HP=10, normalAttack=3, specialAttack=0, normalDefense=1, specialDefense=1}
+Feb 05, 2022 7:25:53 PM Game.FightNeutrel1 fight
+INFO: Bulbasaur attacks and Neutrel1 attacks!
+Feb 05, 2022 7:25:53 PM Game.FightNeutrel1 checkCooldown
+INFO: Pokemon{name='Bulbasaur', HP=46, normalAttack=0, specialAttack=12, normalDefense=7, specialDefense=5, ability1={damage=6, stun=false, dodge=false, coolDown=4}, ability2={damage=5, stun=false, dodge=false, coolDown=3}}
+Feb 05, 2022 7:25:53 PM Game.FightNeutrel1 checkCooldown
+INFO: Pokemon{name='Neutrel1', HP=-2, normalAttack=3, specialAttack=0, normalDefense=1, specialDefense=1}
+Feb 05, 2022 7:25:53 PM Game.FightNeutrel1 fight
+INFO: Bulbasaur wins!
+Feb 05, 2022 7:25:53 PM Game.Arena startDuel
+INFO: The first coach wins!
+Feb 05, 2022 7:25:53 PM Game.Arena startDuel
+INFO: The pokemon is now boosted
+Feb 05, 2022 7:25:53 PM Game.Arena startDuel
+INFO: Pokemon{name='Bulbasaur', HP=47, normalAttack=0, specialAttack=13, normalDefense=8, specialDefense=6, ability1={damage=6, stun=false, dodge=false, coolDown=4}, ability2={damage=5, stun=false, dodge=false, coolDown=3}}
+Feb 05, 2022 7:25:53 PM Game.FightNeutrel1 fight
+INFO: This duel is between the following two pokemons!
+Feb 05, 2022 7:25:53 PM Game.FightNeutrel1 fight
+INFO: Pokemon{name='Pikachu', HP=47, normalAttack=0, specialAttack=9, normalDefense=6, specialDefense=7, ability1={damage=6, stun=false, dodge=false, coolDown=4}, ability2={damage=4, stun=true, dodge=true, coolDown=5}}
+Feb 05, 2022 7:25:53 PM Game.FightNeutrel1 fight
+INFO: Pokemon{name='Neutrel1', HP=10, normalAttack=3, specialAttack=0, normalDefense=1, specialDefense=1}
+Feb 05, 2022 7:25:53 PM Game.FightNeutrel1 fight
+INFO: Pikachu attacks and Neutrel1 attacks!
+Feb 05, 2022 7:25:53 PM Game.FightNeutrel1 checkCooldown
+INFO: Pokemon{name='Pikachu', HP=47, normalAttack=0, specialAttack=9, normalDefense=6, specialDefense=7, ability1={damage=6, stun=false, dodge=false, coolDown=4}, ability2={damage=4, stun=true, dodge=true, coolDown=5}}
+Feb 05, 2022 7:25:53 PM Game.FightNeutrel1 checkCooldown
+INFO: Pokemon{name='Neutrel1', HP=1, normalAttack=3, specialAttack=0, normalDefense=1, specialDefense=1}
+Feb 05, 2022 7:25:53 PM Game.FightNeutrel1 fight
+INFO: Pikachu attacks and Neutrel1 attacks!
+Feb 05, 2022 7:25:53 PM Game.FightNeutrel1 checkCooldown
+INFO: Pokemon{name='Pikachu', HP=47, normalAttack=0, specialAttack=9, normalDefense=6, specialDefense=7, ability1={damage=6, stun=false, dodge=false, coolDown=4}, ability2={damage=4, stun=true, dodge=true, coolDown=5}}
+Feb 05, 2022 7:25:53 PM Game.FightNeutrel1 checkCooldown
+INFO: Pokemon{name='Neutrel1', HP=-8, normalAttack=3, specialAttack=0, normalDefense=1, specialDefense=1}
+Feb 05, 2022 7:25:53 PM Game.FightNeutrel1 fight
+INFO: Pikachu wins!
+Feb 05, 2022 7:25:53 PM Game.Arena startDuel
+INFO: The second coach wins!
+Feb 05, 2022 7:25:53 PM Game.Arena startDuel
+INFO: The pokemon is now boosted
+Feb 05, 2022 7:25:53 PM Game.Arena startDuel
+INFO: Pokemon{name='Pikachu', HP=48, normalAttack=0, specialAttack=10, normalDefense=7, specialDefense=8, ability1={damage=6, stun=false, dodge=false, coolDown=4}, ability2={damage=4, stun=true, dodge=true, coolDown=5}}
+Feb 05, 2022 7:25:53 PM Game.FightNeutrel1 fight
+INFO: This duel is between the following two pokemons!
+Feb 05, 2022 7:25:53 PM Game.FightNeutrel1 fight
+INFO: Pokemon{name='Bulbasaur', HP=47, normalAttack=0, specialAttack=13, normalDefense=8, specialDefense=6, ability1={damage=6, stun=false, dodge=false, coolDown=4}, ability2={damage=5, stun=false, dodge=false, coolDown=3}}
+Feb 05, 2022 7:25:53 PM Game.FightNeutrel1 fight
+INFO: Pokemon{name='Neutrel1', HP=10, normalAttack=3, specialAttack=0, normalDefense=1, specialDefense=1}
+Feb 05, 2022 7:25:53 PM Game.FightNeutrel1 fight
+INFO: Bulbasaur attacks and Neutrel1 attacks!
+Feb 05, 2022 7:25:53 PM Game.FightNeutrel1 checkCooldown
+INFO: Pokemon{name='Bulbasaur', HP=47, normalAttack=0, specialAttack=13, normalDefense=8, specialDefense=6, ability1={damage=6, stun=false, dodge=false, coolDown=4}, ability2={damage=5, stun=false, dodge=false, coolDown=3}}
+Feb 05, 2022 7:25:53 PM Game.FightNeutrel1 checkCooldown
+INFO: Pokemon{name='Neutrel1', HP=-3, normalAttack=3, specialAttack=0, normalDefense=1, specialDefense=1}
+Feb 05, 2022 7:25:53 PM Game.FightNeutrel1 fight
+INFO: Bulbasaur wins!
+Feb 05, 2022 7:25:53 PM Game.Arena startDuel
+INFO: The first coach wins!
+Feb 05, 2022 7:25:53 PM Game.Arena startDuel
+INFO: The pokemon is now boosted
+Feb 05, 2022 7:25:53 PM Game.Arena startDuel
+INFO: Pokemon{name='Bulbasaur', HP=48, normalAttack=0, specialAttack=14, normalDefense=9, specialDefense=7, ability1={damage=6, stun=false, dodge=false, coolDown=4}, ability2={damage=5, stun=false, dodge=false, coolDown=3}}
+Feb 05, 2022 7:25:53 PM Game.FightNeutrel1 fight
+INFO: This duel is between the following two pokemons!
+Feb 05, 2022 7:25:53 PM Game.FightNeutrel1 fight
+INFO: Pokemon{name='Pikachu', HP=48, normalAttack=0, specialAttack=10, normalDefense=7, specialDefense=8, ability1={damage=6, stun=false, dodge=false, coolDown=4}, ability2={damage=4, stun=true, dodge=true, coolDown=5}}
+Feb 05, 2022 7:25:53 PM Game.FightNeutrel1 fight
+INFO: Pokemon{name='Neutrel1', HP=10, normalAttack=3, specialAttack=0, normalDefense=1, specialDefense=1}
+Feb 05, 2022 7:25:53 PM Game.FightNeutrel1 fight
+INFO: Pikachu attacks and Neutrel1 attacks!
+Feb 05, 2022 7:25:53 PM Game.FightNeutrel1 checkCooldown
+INFO: Pokemon{name='Pikachu', HP=48, normalAttack=0, specialAttack=10, normalDefense=7, specialDefense=8, ability1={damage=6, stun=false, dodge=false, coolDown=4}, ability2={damage=4, stun=true, dodge=true, coolDown=5}}
+Feb 05, 2022 7:25:53 PM Game.FightNeutrel1 checkCooldown
+INFO: Pokemon{name='Neutrel1', HP=0, normalAttack=3, specialAttack=0, normalDefense=1, specialDefense=1}
+Feb 05, 2022 7:25:53 PM Game.FightNeutrel1 fight
+INFO: Pikachu wins!
+Feb 05, 2022 7:25:53 PM Game.Arena startDuel
+INFO: The second coach wins!
+Feb 05, 2022 7:25:53 PM Game.Arena startDuel
+INFO: The pokemon is now boosted
+Feb 05, 2022 7:25:53 PM Game.Arena startDuel
+INFO: Pokemon{name='Pikachu', HP=49, normalAttack=0, specialAttack=11, normalDefense=8, specialDefense=9, ability1={damage=6, stun=false, dodge=false, coolDown=4}, ability2={damage=4, stun=true, dodge=true, coolDown=5}}
+Feb 05, 2022 7:25:53 PM Game.CoachesBattle battle
+INFO: This duel is between the following two pokemons!
+Feb 05, 2022 7:25:53 PM Game.CoachesBattle battle
+INFO: Pokemon{name='Bulbasaur', HP=48, normalAttack=0, specialAttack=14, normalDefense=9, specialDefense=7, ability1={damage=6, stun=false, dodge=false, coolDown=4}, ability2={damage=5, stun=false, dodge=false, coolDown=3}}
+Feb 05, 2022 7:25:53 PM Game.CoachesBattle battle
+INFO: Pokemon{name='Pikachu', HP=49, normalAttack=0, specialAttack=11, normalDefense=8, specialDefense=9, ability1={damage=6, stun=false, dodge=false, coolDown=4}, ability2={damage=4, stun=true, dodge=true, coolDown=5}}
+Feb 05, 2022 7:25:53 PM Game.HelpBattle1 abilityVsAttack
+INFO: Pokemon Pikachu attacks!
+Feb 05, 2022 7:25:53 PM Game.HelpBattle1 abilityVsAttack
+INFO: Pokemon Bulbasaur uses ability 2!
+Feb 05, 2022 7:25:53 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Pikachu is 0
+Feb 05, 2022 7:25:53 PM Game.CoachesBattle battle
+INFO: Bulbasaur has 44 HP!
+Feb 05, 2022 7:25:53 PM Game.CoachesBattle battle
+INFO: Pikachu has 44 HP!
+Feb 05, 2022 7:25:54 PM Game.HelpBattle abilityVsAbility
+INFO: Pokemon Bulbasaur uses ability 1!
+Feb 05, 2022 7:25:54 PM Game.HelpBattle abilityVsAbility
+INFO: Pokemon Pikachu uses ability 1!
+Feb 05, 2022 7:25:54 PM Game.CoachesBattle battle
+INFO: Cooldown ability 2 for Bulbasaur is 2
+Feb 05, 2022 7:25:54 PM Game.CoachesBattle battle
+INFO: Bulbasaur has 38 HP!
+Feb 05, 2022 7:25:54 PM Game.CoachesBattle battle
+INFO: Pikachu has 38 HP!
+Feb 05, 2022 7:25:54 PM Game.HelpBattle1 abilityVsAttack
+INFO: Pokemon Bulbasaur attacks!
+Feb 05, 2022 7:25:54 PM Game.HelpBattle1 abilityVsAttack
+INFO: Pokemon Pikachu uses ability 2!
+Feb 05, 2022 7:25:54 PM Game.HelpBattle1 abilityVsAttack
+INFO: Pokemon Pikachu dodges the attack!
+Feb 05, 2022 7:25:54 PM Game.CoachesBattle battle
+INFO: Cooldown ability 1 for Pikachu is 3
+Feb 05, 2022 7:25:54 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Bulbasaur is 3
+Feb 05, 2022 7:25:54 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 2 for Bulbasaur is 1
+Feb 05, 2022 7:25:54 PM Game.CoachesBattle battle
+INFO: Bulbasaur has 34 HP!
+Feb 05, 2022 7:25:54 PM Game.CoachesBattle battle
+INFO: Pikachu has 38 HP!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Bulbasaur is stunned!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Pikachu attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Bulbasaur is 2
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 2 for Bulbasaur is 0
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Pikachu is 2
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 2 for Pikachu is 4
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Bulbasaur has 30 HP!
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Pikachu has 38 HP!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Bulbasaur attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Pikachu attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Bulbasaur is 1
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Pikachu is 1
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 2 for Pikachu is 3
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Bulbasaur has 26 HP!
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Pikachu has 33 HP!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Bulbasaur attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Pikachu attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Bulbasaur is 0
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Pikachu is 0
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 2 for Pikachu is 2
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Bulbasaur has 22 HP!
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Pikachu has 28 HP!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Bulbasaur attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Pikachu attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Bulbasaur is 0
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Pikachu is 0
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 2 for Pikachu is 1
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Bulbasaur has 18 HP!
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Pikachu has 23 HP!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Bulbasaur attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Pikachu attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Bulbasaur is 0
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Pikachu is 0
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 2 for Pikachu is 0
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Bulbasaur has 14 HP!
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Pikachu has 18 HP!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Bulbasaur attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Pikachu attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Bulbasaur is 0
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Pikachu is 0
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Bulbasaur has 10 HP!
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Pikachu has 13 HP!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Bulbasaur attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Pikachu attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Bulbasaur is 0
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Pikachu is 0
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Bulbasaur has 6 HP!
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Pikachu has 8 HP!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Bulbasaur attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Pikachu attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Bulbasaur is 0
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Pikachu is 0
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Bulbasaur has 2 HP!
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Pikachu has 3 HP!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Bulbasaur attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Pikachu attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Bulbasaur is 0
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Pikachu is 0
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Bulbasaur has -2 HP!
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Pikachu has -2 HP!
+Feb 05, 2022 7:25:57 PM Pokemons.PokemonHelperClassForBattle checkWinner
+INFO: Pokemon Pikachu wins!
+Feb 05, 2022 7:25:57 PM Pokemons.PokemonHelperClassForBattle checkWinner
+INFO: The second coach wins!
+Feb 05, 2022 7:25:57 PM Pokemons.PokemonHelperClassForBattle checkWinner
+INFO: The pokemon is now boosted
+Feb 05, 2022 7:25:57 PM Pokemons.PokemonHelperClassForBattle checkWinner
+INFO: Pokemon{name='Pikachu', HP=50, normalAttack=0, specialAttack=12, normalDefense=9, specialDefense=10, ability1={damage=6, stun=false, dodge=false, coolDown=4}, ability2={damage=4, stun=true, dodge=true, coolDown=5}}
+Feb 05, 2022 7:25:57 PM Game.ReadFromFile read
+INFO: Pokemon{name='Bulbasaur', HP=48, normalAttack=0, specialAttack=14, normalDefense=9, specialDefense=7, ability1={damage=6, stun=false, dodge=false, coolDown=4}, ability2={damage=5, stun=false, dodge=false, coolDown=3}}
+Feb 05, 2022 7:25:57 PM Game.ReadFromFile read
+INFO: Pokemon{name='Pikachu', HP=50, normalAttack=0, specialAttack=12, normalDefense=9, specialDefense=10, ability1={damage=6, stun=false, dodge=false, coolDown=4}, ability2={damage=4, stun=true, dodge=true, coolDown=5}}
+Feb 05, 2022 7:25:57 PM Game.ReadFromFile read
+INFO: SECOND ADVENTURE BEGINS!
+Feb 05, 2022 7:25:57 PM Game.FightNeutrel2 fight
+INFO: This duel is between the following two pokemons!
+Feb 05, 2022 7:25:57 PM Game.FightNeutrel2 fight
+INFO: Pokemon{name='Vulpix', HP=46, normalAttack=11, specialAttack=0, normalDefense=3, specialDefense=4, ability1={damage=8, stun=true, dodge=false, coolDown=6}, ability2={damage=2, stun=false, dodge=true, coolDown=7}}
+Feb 05, 2022 7:25:57 PM Game.FightNeutrel2 fight
+INFO: Pokemon{name='Neutrel2', HP=20, normalAttack=4, specialAttack=0, normalDefense=1, specialDefense=1}
+Feb 05, 2022 7:25:57 PM Game.FightNeutrel2 fight
+INFO: Vulpix attacks and Neutrel2 attacks!
+Feb 05, 2022 7:25:57 PM Game.FightNeutrel1 checkCooldown
+INFO: Pokemon{name='Vulpix', HP=45, normalAttack=11, specialAttack=0, normalDefense=3, specialDefense=4, ability1={damage=8, stun=true, dodge=false, coolDown=6}, ability2={damage=2, stun=false, dodge=true, coolDown=7}}
+Feb 05, 2022 7:25:57 PM Game.FightNeutrel1 checkCooldown
+INFO: Pokemon{name='Neutrel2', HP=10, normalAttack=4, specialAttack=0, normalDefense=1, specialDefense=1}
+Feb 05, 2022 7:25:57 PM Game.FightNeutrel2 fight
+INFO: Vulpix attacks and Neutrel2 attacks!
+Feb 05, 2022 7:25:57 PM Game.FightNeutrel1 checkCooldown
+INFO: Pokemon{name='Vulpix', HP=44, normalAttack=11, specialAttack=0, normalDefense=3, specialDefense=4, ability1={damage=8, stun=true, dodge=false, coolDown=6}, ability2={damage=2, stun=false, dodge=true, coolDown=7}}
+Feb 05, 2022 7:25:57 PM Game.FightNeutrel1 checkCooldown
+INFO: Pokemon{name='Neutrel2', HP=0, normalAttack=4, specialAttack=0, normalDefense=1, specialDefense=1}
+Feb 05, 2022 7:25:57 PM Game.FightNeutrel2 fight
+INFO: Vulpix wins!
+Feb 05, 2022 7:25:57 PM Game.Arena startDuel
+INFO: The first coach wins!
+Feb 05, 2022 7:25:57 PM Game.Arena startDuel
+INFO: The pokemon is now boosted
+Feb 05, 2022 7:25:57 PM Game.Arena startDuel
+INFO: Pokemon{name='Vulpix', HP=47, normalAttack=12, specialAttack=0, normalDefense=4, specialDefense=5, ability1={damage=8, stun=true, dodge=false, coolDown=6}, ability2={damage=2, stun=false, dodge=true, coolDown=7}}
+Feb 05, 2022 7:25:57 PM Game.FightNeutrel2 fight
+INFO: This duel is between the following two pokemons!
+Feb 05, 2022 7:25:57 PM Game.FightNeutrel2 fight
+INFO: Pokemon{name='Meowth', HP=43, normalAttack=8, specialAttack=0, normalDefense=4, specialDefense=5, ability1={damage=5, stun=false, dodge=true, coolDown=4}, ability2={damage=1, stun=false, dodge=true, coolDown=3}}
+Feb 05, 2022 7:25:57 PM Game.FightNeutrel2 fight
+INFO: Pokemon{name='Neutrel2', HP=20, normalAttack=4, specialAttack=0, normalDefense=1, specialDefense=1}
+Feb 05, 2022 7:25:57 PM Game.FightNeutrel2 fight
+INFO: Meowth attacks and Neutrel2 attacks!
+Feb 05, 2022 7:25:57 PM Game.FightNeutrel1 checkCooldown
+INFO: Pokemon{name='Meowth', HP=43, normalAttack=8, specialAttack=0, normalDefense=4, specialDefense=5, ability1={damage=5, stun=false, dodge=true, coolDown=4}, ability2={damage=1, stun=false, dodge=true, coolDown=3}}
+Feb 05, 2022 7:25:57 PM Game.FightNeutrel1 checkCooldown
+INFO: Pokemon{name='Neutrel2', HP=13, normalAttack=4, specialAttack=0, normalDefense=1, specialDefense=1}
+Feb 05, 2022 7:25:57 PM Game.FightNeutrel1 getStunAbility1
+INFO: Pokemon{name='Meowth', HP=43, normalAttack=8, specialAttack=0, normalDefense=4, specialDefense=5, ability1={damage=5, stun=false, dodge=true, coolDown=4}, ability2={damage=1, stun=false, dodge=true, coolDown=3}}
+Feb 05, 2022 7:25:57 PM Game.FightNeutrel1 getStunAbility1
+INFO: Pokemon{name='Neutrel2', HP=8, normalAttack=4, specialAttack=0, normalDefense=1, specialDefense=1}
+Feb 05, 2022 7:25:57 PM Game.FightNeutrel1 getStunAbility1
+INFO: Cooldown ability 1 is 4
+Feb 05, 2022 7:25:57 PM Game.FightNeutrel2 fight
+INFO: Meowth attacks and Neutrel2 attacks!
+Feb 05, 2022 7:25:57 PM Game.FightNeutrel1 checkCooldown
+INFO: Pokemon{name='Meowth', HP=43, normalAttack=8, specialAttack=0, normalDefense=4, specialDefense=5, ability1={damage=5, stun=false, dodge=true, coolDown=4}, ability2={damage=1, stun=false, dodge=true, coolDown=3}}
+Feb 05, 2022 7:25:57 PM Game.FightNeutrel1 checkCooldown
+INFO: Pokemon{name='Neutrel2', HP=1, normalAttack=4, specialAttack=0, normalDefense=1, specialDefense=1}
+Feb 05, 2022 7:25:57 PM Game.FightNeutrel1 checkCooldown
+INFO: Cooldown ability 1 is 3
+Feb 05, 2022 7:25:57 PM Game.FightNeutrel2 fight
+INFO: Meowth attacks and Neutrel2 attacks!
+Feb 05, 2022 7:25:57 PM Game.FightNeutrel1 checkCooldown
+INFO: Pokemon{name='Meowth', HP=43, normalAttack=8, specialAttack=0, normalDefense=4, specialDefense=5, ability1={damage=5, stun=false, dodge=true, coolDown=4}, ability2={damage=1, stun=false, dodge=true, coolDown=3}}
+Feb 05, 2022 7:25:57 PM Game.FightNeutrel1 checkCooldown
+INFO: Pokemon{name='Neutrel2', HP=-6, normalAttack=4, specialAttack=0, normalDefense=1, specialDefense=1}
+Feb 05, 2022 7:25:57 PM Game.FightNeutrel1 checkCooldown
+INFO: Cooldown ability 1 is 2
+Feb 05, 2022 7:25:57 PM Game.FightNeutrel2 fight
+INFO: Meowth wins!
+Feb 05, 2022 7:25:57 PM Game.Arena startDuel
+INFO: The second coach wins!
+Feb 05, 2022 7:25:57 PM Game.Arena startDuel
+INFO: The pokemon is now boosted
+Feb 05, 2022 7:25:57 PM Game.Arena startDuel
+INFO: Pokemon{name='Meowth', HP=44, normalAttack=9, specialAttack=0, normalDefense=5, specialDefense=6, ability1={damage=5, stun=false, dodge=true, coolDown=4}, ability2={damage=1, stun=false, dodge=true, coolDown=3}}
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: This duel is between the following two pokemons!
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Pokemon{name='Vulpix', HP=47, normalAttack=12, specialAttack=0, normalDefense=4, specialDefense=5, ability1={damage=8, stun=true, dodge=false, coolDown=6}, ability2={damage=2, stun=false, dodge=true, coolDown=7}}
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Pokemon{name='Meowth', HP=44, normalAttack=9, specialAttack=0, normalDefense=5, specialDefense=6, ability1={damage=5, stun=false, dodge=true, coolDown=4}, ability2={damage=1, stun=false, dodge=true, coolDown=3}}
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Vulpix attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Meowth attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Vulpix is 0
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Meowth is 0
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Vulpix has 42 HP!
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Meowth has 37 HP!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Vulpix attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Meowth attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Vulpix is 0
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Meowth is 0
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Vulpix has 37 HP!
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Meowth has 30 HP!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Vulpix attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Meowth attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Vulpix is 0
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Meowth is 0
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Vulpix has 32 HP!
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Meowth has 23 HP!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Vulpix attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Meowth attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Vulpix is 0
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Meowth is 0
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Vulpix has 27 HP!
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Meowth has 16 HP!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Vulpix attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Meowth attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Vulpix is 0
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Meowth is 0
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Vulpix has 22 HP!
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Meowth has 9 HP!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Vulpix attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Meowth attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Vulpix is 0
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Meowth is 0
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Vulpix has 17 HP!
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Meowth has 2 HP!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Vulpix attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Meowth attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Vulpix is 0
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Meowth is 0
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Vulpix has 12 HP!
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Meowth has -5 HP!
+Feb 05, 2022 7:25:57 PM Pokemons.PokemonHelperClassForBattle checkWinner
+INFO: Pokemon Vulpix wins!
+Feb 05, 2022 7:25:57 PM Pokemons.PokemonHelperClassForBattle checkWinner
+INFO: The first coach wins!
+Feb 05, 2022 7:25:57 PM Pokemons.PokemonHelperClassForBattle checkWinner
+INFO: The pokemon is now boosted
+Feb 05, 2022 7:25:57 PM Pokemons.PokemonHelperClassForBattle checkWinner
+INFO: Pokemon{name='Vulpix', HP=48, normalAttack=13, specialAttack=0, normalDefense=5, specialDefense=6, ability1={damage=8, stun=true, dodge=false, coolDown=6}, ability2={damage=2, stun=false, dodge=true, coolDown=7}}
+Feb 05, 2022 7:25:57 PM Game.ReadFromFile read
+INFO: Pokemon{name='Vulpix', HP=48, normalAttack=13, specialAttack=0, normalDefense=5, specialDefense=6, ability1={damage=8, stun=true, dodge=false, coolDown=6}, ability2={damage=2, stun=false, dodge=true, coolDown=7}}
+Feb 05, 2022 7:25:57 PM Game.ReadFromFile read
+INFO: Pokemon{name='Meowth', HP=44, normalAttack=9, specialAttack=0, normalDefense=5, specialDefense=6, ability1={damage=5, stun=false, dodge=true, coolDown=4}, ability2={damage=1, stun=false, dodge=true, coolDown=3}}
+Feb 05, 2022 7:25:57 PM Game.ReadFromFile read
+INFO: THIRD ADVENTURE BEGINS!
+Feb 05, 2022 7:25:57 PM Game.FightNeutrel2 fight
+INFO: This duel is between the following two pokemons!
+Feb 05, 2022 7:25:57 PM Game.FightNeutrel2 fight
+INFO: Pokemon{name='Psyduck', HP=45, normalAttack=5, specialAttack=0, normalDefense=5, specialDefense=8, ability1={damage=2, stun=false, dodge=false, coolDown=4}, ability2={damage=2, stun=true, dodge=false, coolDown=5}}
+Feb 05, 2022 7:25:57 PM Game.FightNeutrel2 fight
+INFO: Pokemon{name='Neutrel2', HP=20, normalAttack=4, specialAttack=0, normalDefense=1, specialDefense=1}
+Feb 05, 2022 7:25:57 PM Game.FightNeutrel1 getStunAbility1
+INFO: Pokemon{name='Psyduck', HP=45, normalAttack=5, specialAttack=0, normalDefense=5, specialDefense=8, ability1={damage=2, stun=false, dodge=false, coolDown=4}, ability2={damage=2, stun=true, dodge=false, coolDown=5}}
+Feb 05, 2022 7:25:57 PM Game.FightNeutrel1 getStunAbility1
+INFO: Pokemon{name='Neutrel2', HP=18, normalAttack=4, specialAttack=0, normalDefense=1, specialDefense=1}
+Feb 05, 2022 7:25:57 PM Game.FightNeutrel1 getStunAbility1
+INFO: Cooldown ability 1 is 4
+Feb 05, 2022 7:25:57 PM Game.FightNeutrel2 fight
+INFO: Psyduck attacks and Neutrel2 attacks!
+Feb 05, 2022 7:25:57 PM Game.FightNeutrel1 checkCooldown
+INFO: Pokemon{name='Psyduck', HP=45, normalAttack=5, specialAttack=0, normalDefense=5, specialDefense=8, ability1={damage=2, stun=false, dodge=false, coolDown=4}, ability2={damage=2, stun=true, dodge=false, coolDown=5}}
+Feb 05, 2022 7:25:57 PM Game.FightNeutrel1 checkCooldown
+INFO: Pokemon{name='Neutrel2', HP=14, normalAttack=4, specialAttack=0, normalDefense=1, specialDefense=1}
+Feb 05, 2022 7:25:57 PM Game.FightNeutrel1 checkCooldown
+INFO: Cooldown ability 1 is 3
+Feb 05, 2022 7:25:57 PM Game.FightNeutrel2 fight
+INFO: Psyduck attacks and Neutrel2 attacks!
+Feb 05, 2022 7:25:57 PM Game.FightNeutrel1 checkCooldown
+INFO: Pokemon{name='Psyduck', HP=45, normalAttack=5, specialAttack=0, normalDefense=5, specialDefense=8, ability1={damage=2, stun=false, dodge=false, coolDown=4}, ability2={damage=2, stun=true, dodge=false, coolDown=5}}
+Feb 05, 2022 7:25:57 PM Game.FightNeutrel1 checkCooldown
+INFO: Pokemon{name='Neutrel2', HP=10, normalAttack=4, specialAttack=0, normalDefense=1, specialDefense=1}
+Feb 05, 2022 7:25:57 PM Game.FightNeutrel1 checkCooldown
+INFO: Cooldown ability 1 is 2
+Feb 05, 2022 7:25:57 PM Game.FightNeutrel2 fight
+INFO: Psyduck attacks and Neutrel2 attacks!
+Feb 05, 2022 7:25:57 PM Game.FightNeutrel1 checkCooldown
+INFO: Pokemon{name='Psyduck', HP=45, normalAttack=5, specialAttack=0, normalDefense=5, specialDefense=8, ability1={damage=2, stun=false, dodge=false, coolDown=4}, ability2={damage=2, stun=true, dodge=false, coolDown=5}}
+Feb 05, 2022 7:25:57 PM Game.FightNeutrel1 checkCooldown
+INFO: Pokemon{name='Neutrel2', HP=6, normalAttack=4, specialAttack=0, normalDefense=1, specialDefense=1}
+Feb 05, 2022 7:25:57 PM Game.FightNeutrel1 checkCooldown
+INFO: Cooldown ability 1 is 1
+Feb 05, 2022 7:25:57 PM Game.FightNeutrel1 getStunAbility2
+INFO: Pokemon{name='Psyduck', HP=45, normalAttack=5, specialAttack=0, normalDefense=5, specialDefense=8, ability1={damage=2, stun=false, dodge=false, coolDown=4}, ability2={damage=2, stun=true, dodge=false, coolDown=5}}
+Feb 05, 2022 7:25:57 PM Game.FightNeutrel1 getStunAbility2
+INFO: Pokemon{name='Neutrel2', HP=4, normalAttack=4, specialAttack=0, normalDefense=1, specialDefense=1}
+Feb 05, 2022 7:25:57 PM Game.FightNeutrel1 getStunAbility2
+INFO: Cooldown ability 2 is 5
+Feb 05, 2022 7:25:57 PM Game.FightNeutrel2 fight
+INFO: Psyduck uses ability 1 and Neutrel2 is stuned!
+Feb 05, 2022 7:25:57 PM Game.FightNeutrel1 getStunAbility1
+INFO: Pokemon{name='Psyduck', HP=45, normalAttack=5, specialAttack=0, normalDefense=5, specialDefense=8, ability1={damage=2, stun=false, dodge=false, coolDown=4}, ability2={damage=2, stun=true, dodge=false, coolDown=5}}
+Feb 05, 2022 7:25:57 PM Game.FightNeutrel1 getStunAbility1
+INFO: Pokemon{name='Neutrel2', HP=2, normalAttack=4, specialAttack=0, normalDefense=1, specialDefense=1}
+Feb 05, 2022 7:25:57 PM Game.FightNeutrel1 getStunAbility1
+INFO: Cooldown ability 1 is 4
+Feb 05, 2022 7:25:57 PM Game.FightNeutrel1 getStunAbility1
+INFO: Cooldown ability 2 is 4
+Feb 05, 2022 7:25:57 PM Game.FightNeutrel2 fight
+INFO: Psyduck attacks and Neutrel2 is stuned!
+Feb 05, 2022 7:25:57 PM Game.FightNeutrel1 checkCooldown
+INFO: Pokemon{name='Psyduck', HP=45, normalAttack=5, specialAttack=0, normalDefense=5, specialDefense=8, ability1={damage=2, stun=false, dodge=false, coolDown=4}, ability2={damage=2, stun=true, dodge=false, coolDown=5}}
+Feb 05, 2022 7:25:57 PM Game.FightNeutrel1 checkCooldown
+INFO: Pokemon{name='Neutrel2', HP=-2, normalAttack=4, specialAttack=0, normalDefense=1, specialDefense=1}
+Feb 05, 2022 7:25:57 PM Game.FightNeutrel1 checkCooldown
+INFO: Cooldown ability 1 is 3
+Feb 05, 2022 7:25:57 PM Game.FightNeutrel1 checkCooldown
+INFO: Cooldown ability 2 is 3
+Feb 05, 2022 7:25:57 PM Game.FightNeutrel2 fight
+INFO: Psyduck wins!
+Feb 05, 2022 7:25:57 PM Game.Arena startDuel
+INFO: The first coach wins!
+Feb 05, 2022 7:25:57 PM Game.Arena startDuel
+INFO: The pokemon is now boosted
+Feb 05, 2022 7:25:57 PM Game.Arena startDuel
+INFO: Pokemon{name='Psyduck', HP=46, normalAttack=6, specialAttack=0, normalDefense=6, specialDefense=9, ability1={damage=2, stun=false, dodge=false, coolDown=4}, ability2={damage=2, stun=true, dodge=false, coolDown=5}}
+Feb 05, 2022 7:25:57 PM Game.FightNeutrel2 fight
+INFO: This duel is between the following two pokemons!
+Feb 05, 2022 7:25:57 PM Game.FightNeutrel2 fight
+INFO: Pokemon{name='Squirtle', HP=70, normalAttack=0, specialAttack=6, normalDefense=7, specialDefense=7, ability1={damage=4, stun=false, dodge=false, coolDown=3}, ability2={damage=2, stun=true, dodge=false, coolDown=2}}
+Feb 05, 2022 7:25:57 PM Game.FightNeutrel2 fight
+INFO: Pokemon{name='Neutrel2', HP=20, normalAttack=4, specialAttack=0, normalDefense=1, specialDefense=1}
+Feb 05, 2022 7:25:57 PM Game.FightNeutrel2 fight
+INFO: Squirtle attacks and Neutrel2 attacks!
+Feb 05, 2022 7:25:57 PM Game.FightNeutrel1 checkCooldown
+INFO: Pokemon{name='Squirtle', HP=70, normalAttack=0, specialAttack=6, normalDefense=7, specialDefense=7, ability1={damage=4, stun=false, dodge=false, coolDown=3}, ability2={damage=2, stun=true, dodge=false, coolDown=2}}
+Feb 05, 2022 7:25:57 PM Game.FightNeutrel1 checkCooldown
+INFO: Pokemon{name='Neutrel2', HP=14, normalAttack=4, specialAttack=0, normalDefense=1, specialDefense=1}
+Feb 05, 2022 7:25:57 PM Game.FightNeutrel2 fight
+INFO: Squirtle attacks and Neutrel2 attacks!
+Feb 05, 2022 7:25:57 PM Game.FightNeutrel1 checkCooldown
+INFO: Pokemon{name='Squirtle', HP=70, normalAttack=0, specialAttack=6, normalDefense=7, specialDefense=7, ability1={damage=4, stun=false, dodge=false, coolDown=3}, ability2={damage=2, stun=true, dodge=false, coolDown=2}}
+Feb 05, 2022 7:25:57 PM Game.FightNeutrel1 checkCooldown
+INFO: Pokemon{name='Neutrel2', HP=8, normalAttack=4, specialAttack=0, normalDefense=1, specialDefense=1}
+Feb 05, 2022 7:25:57 PM Game.FightNeutrel1 getStunAbility1
+INFO: Pokemon{name='Squirtle', HP=70, normalAttack=0, specialAttack=6, normalDefense=7, specialDefense=7, ability1={damage=4, stun=false, dodge=false, coolDown=3}, ability2={damage=2, stun=true, dodge=false, coolDown=2}}
+Feb 05, 2022 7:25:57 PM Game.FightNeutrel1 getStunAbility1
+INFO: Pokemon{name='Neutrel2', HP=4, normalAttack=4, specialAttack=0, normalDefense=1, specialDefense=1}
+Feb 05, 2022 7:25:57 PM Game.FightNeutrel1 getStunAbility1
+INFO: Cooldown ability 1 is 3
+Feb 05, 2022 7:25:57 PM Game.FightNeutrel1 getStunAbility2
+INFO: Pokemon{name='Squirtle', HP=70, normalAttack=0, specialAttack=6, normalDefense=7, specialDefense=7, ability1={damage=4, stun=false, dodge=false, coolDown=3}, ability2={damage=2, stun=true, dodge=false, coolDown=2}}
+Feb 05, 2022 7:25:57 PM Game.FightNeutrel1 getStunAbility2
+INFO: Pokemon{name='Neutrel2', HP=2, normalAttack=4, specialAttack=0, normalDefense=1, specialDefense=1}
+Feb 05, 2022 7:25:57 PM Game.FightNeutrel1 getStunAbility2
+INFO: Cooldown ability 2 is 2
+Feb 05, 2022 7:25:57 PM Game.FightNeutrel1 getStunAbility2
+INFO: Cooldown ability 1 is 2
+Feb 05, 2022 7:25:57 PM Game.FightNeutrel2 fight
+INFO: Squirtle attacks and Neutrel2 is stuned!
+Feb 05, 2022 7:25:57 PM Game.FightNeutrel1 checkCooldown
+INFO: Pokemon{name='Squirtle', HP=70, normalAttack=0, specialAttack=6, normalDefense=7, specialDefense=7, ability1={damage=4, stun=false, dodge=false, coolDown=3}, ability2={damage=2, stun=true, dodge=false, coolDown=2}}
+Feb 05, 2022 7:25:57 PM Game.FightNeutrel1 checkCooldown
+INFO: Pokemon{name='Neutrel2', HP=-4, normalAttack=4, specialAttack=0, normalDefense=1, specialDefense=1}
+Feb 05, 2022 7:25:57 PM Game.FightNeutrel1 checkCooldown
+INFO: Cooldown ability 1 is 1
+Feb 05, 2022 7:25:57 PM Game.FightNeutrel1 checkCooldown
+INFO: Cooldown ability 2 is 1
+Feb 05, 2022 7:25:57 PM Game.FightNeutrel2 fight
+INFO: Squirtle wins!
+Feb 05, 2022 7:25:57 PM Game.Arena startDuel
+INFO: The second coach wins!
+Feb 05, 2022 7:25:57 PM Game.Arena startDuel
+INFO: The pokemon is now boosted
+Feb 05, 2022 7:25:57 PM Game.Arena startDuel
+INFO: Pokemon{name='Squirtle', HP=71, normalAttack=0, specialAttack=7, normalDefense=8, specialDefense=8, ability1={damage=4, stun=false, dodge=false, coolDown=3}, ability2={damage=2, stun=true, dodge=false, coolDown=2}}
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: This duel is between the following two pokemons!
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Pokemon{name='Psyduck', HP=46, normalAttack=6, specialAttack=0, normalDefense=6, specialDefense=9, ability1={damage=2, stun=false, dodge=false, coolDown=4}, ability2={damage=2, stun=true, dodge=false, coolDown=5}}
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Pokemon{name='Squirtle', HP=71, normalAttack=0, specialAttack=7, normalDefense=8, specialDefense=8, ability1={damage=4, stun=false, dodge=false, coolDown=3}, ability2={damage=2, stun=true, dodge=false, coolDown=2}}
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Psyduck attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Squirtle attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Psyduck is 0
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Squirtle is 0
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Psyduck has 46 HP!
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Squirtle has 71 HP!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Psyduck attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Squirtle attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Psyduck is 0
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Squirtle is 0
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Psyduck has 46 HP!
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Squirtle has 71 HP!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Psyduck attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Squirtle attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Psyduck is 0
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Squirtle is 0
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Psyduck has 46 HP!
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Squirtle has 71 HP!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Psyduck attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Squirtle attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Psyduck is 0
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Squirtle is 0
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Psyduck has 45 HP!
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Squirtle has 70 HP!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Psyduck attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Squirtle attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Psyduck is 0
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Squirtle is 0
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Psyduck has 44 HP!
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Squirtle has 69 HP!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Psyduck attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Squirtle attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Psyduck is 0
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Squirtle is 0
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Psyduck has 43 HP!
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Squirtle has 68 HP!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Psyduck attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Squirtle attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Psyduck is 0
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Squirtle is 0
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Psyduck has 42 HP!
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Squirtle has 67 HP!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Psyduck attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Squirtle attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Psyduck is 0
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Squirtle is 0
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Psyduck has 41 HP!
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Squirtle has 66 HP!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Psyduck attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Squirtle attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Psyduck is 0
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Squirtle is 0
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Psyduck has 40 HP!
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Squirtle has 65 HP!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Psyduck attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Squirtle attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Psyduck is 0
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Squirtle is 0
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Psyduck has 39 HP!
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Squirtle has 64 HP!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Psyduck attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Squirtle attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Psyduck is 0
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Squirtle is 0
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Psyduck has 38 HP!
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Squirtle has 63 HP!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Psyduck attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Squirtle attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Psyduck is 0
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Squirtle is 0
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Psyduck has 37 HP!
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Squirtle has 62 HP!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Psyduck attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Squirtle attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Psyduck is 0
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Squirtle is 0
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Psyduck has 36 HP!
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Squirtle has 61 HP!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Psyduck attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Squirtle attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Psyduck is 0
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Squirtle is 0
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Psyduck has 35 HP!
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Squirtle has 60 HP!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Psyduck attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Squirtle attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Psyduck is 0
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Squirtle is 0
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Psyduck has 34 HP!
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Squirtle has 59 HP!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Psyduck attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Squirtle attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Psyduck is 0
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Squirtle is 0
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Psyduck has 33 HP!
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Squirtle has 58 HP!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Psyduck attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Squirtle attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Psyduck is 0
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Squirtle is 0
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Psyduck has 32 HP!
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Squirtle has 57 HP!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Psyduck attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Squirtle attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Psyduck is 0
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Squirtle is 0
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Psyduck has 31 HP!
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Squirtle has 56 HP!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Psyduck attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Squirtle attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Psyduck is 0
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Squirtle is 0
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Psyduck has 30 HP!
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Squirtle has 55 HP!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Psyduck attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Squirtle attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Psyduck is 0
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Squirtle is 0
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Psyduck has 29 HP!
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Squirtle has 54 HP!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Psyduck attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Squirtle attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Psyduck is 0
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Squirtle is 0
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Psyduck has 28 HP!
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Squirtle has 53 HP!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Psyduck attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Squirtle attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Psyduck is 0
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Squirtle is 0
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Psyduck has 27 HP!
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Squirtle has 52 HP!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Psyduck attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Squirtle attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Psyduck is 0
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Squirtle is 0
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Psyduck has 26 HP!
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Squirtle has 51 HP!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Psyduck attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Squirtle attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Psyduck is 0
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Squirtle is 0
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Psyduck has 25 HP!
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Squirtle has 50 HP!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Psyduck attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Squirtle attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Psyduck is 0
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Squirtle is 0
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Psyduck has 24 HP!
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Squirtle has 49 HP!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Psyduck attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Squirtle attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Psyduck is 0
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Squirtle is 0
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Psyduck has 23 HP!
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Squirtle has 48 HP!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Psyduck attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Squirtle attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Psyduck is 0
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Squirtle is 0
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Psyduck has 22 HP!
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Squirtle has 47 HP!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Psyduck attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Squirtle attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Psyduck is 0
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Squirtle is 0
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Psyduck has 21 HP!
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Squirtle has 46 HP!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Psyduck attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Squirtle attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Psyduck is 0
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Squirtle is 0
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Psyduck has 20 HP!
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Squirtle has 45 HP!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Psyduck attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Squirtle attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Psyduck is 0
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Squirtle is 0
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Psyduck has 19 HP!
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Squirtle has 44 HP!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Psyduck attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Squirtle attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Psyduck is 0
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Squirtle is 0
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Psyduck has 18 HP!
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Squirtle has 43 HP!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Psyduck attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Squirtle attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Psyduck is 0
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Squirtle is 0
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Psyduck has 17 HP!
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Squirtle has 42 HP!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Psyduck attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Squirtle attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Psyduck is 0
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Squirtle is 0
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Psyduck has 16 HP!
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Squirtle has 41 HP!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Psyduck attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Squirtle attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Psyduck is 0
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Squirtle is 0
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Psyduck has 15 HP!
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Squirtle has 40 HP!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Psyduck attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Squirtle attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Psyduck is 0
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Squirtle is 0
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Psyduck has 14 HP!
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Squirtle has 39 HP!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Psyduck attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Squirtle attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Psyduck is 0
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Squirtle is 0
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Psyduck has 13 HP!
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Squirtle has 38 HP!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Psyduck attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Squirtle attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Psyduck is 0
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Squirtle is 0
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Psyduck has 12 HP!
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Squirtle has 37 HP!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Psyduck attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Squirtle attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Psyduck is 0
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Squirtle is 0
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Psyduck has 11 HP!
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Squirtle has 36 HP!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Psyduck attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Squirtle attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Psyduck is 0
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Squirtle is 0
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Psyduck has 10 HP!
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Squirtle has 35 HP!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Psyduck attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Squirtle attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Psyduck is 0
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Squirtle is 0
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Psyduck has 9 HP!
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Squirtle has 34 HP!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Psyduck attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Squirtle attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Psyduck is 0
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Squirtle is 0
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Psyduck has 8 HP!
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Squirtle has 33 HP!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Psyduck attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Squirtle attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Psyduck is 0
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Squirtle is 0
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Psyduck has 7 HP!
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Squirtle has 32 HP!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Psyduck attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Squirtle attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Psyduck is 0
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Squirtle is 0
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Psyduck has 6 HP!
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Squirtle has 31 HP!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Psyduck attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Squirtle attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Psyduck is 0
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Squirtle is 0
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Psyduck has 5 HP!
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Squirtle has 30 HP!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Psyduck attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Squirtle attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Psyduck is 0
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Squirtle is 0
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Psyduck has 4 HP!
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Squirtle has 29 HP!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Psyduck attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Squirtle attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Psyduck is 0
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Squirtle is 0
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Psyduck has 3 HP!
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Squirtle has 28 HP!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Psyduck attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Squirtle attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Psyduck is 0
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Squirtle is 0
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Psyduck has 2 HP!
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Squirtle has 27 HP!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Psyduck attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Squirtle attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Psyduck is 0
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Squirtle is 0
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Psyduck has 1 HP!
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Squirtle has 26 HP!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Psyduck attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Squirtle attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Psyduck is 0
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Squirtle is 0
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Psyduck has 0 HP!
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Squirtle has 25 HP!
+Feb 05, 2022 7:25:57 PM Pokemons.PokemonHelperClassForBattle checkWinner
+INFO: Pokemon Squirtle wins!
+Feb 05, 2022 7:25:57 PM Pokemons.PokemonHelperClassForBattle checkWinner
+INFO: The second coach wins!
+Feb 05, 2022 7:25:57 PM Pokemons.PokemonHelperClassForBattle checkWinner
+INFO: The pokemon is now boosted
+Feb 05, 2022 7:25:57 PM Pokemons.PokemonHelperClassForBattle checkWinner
+INFO: Pokemon{name='Squirtle', HP=72, normalAttack=0, specialAttack=8, normalDefense=9, specialDefense=9, ability1={damage=4, stun=false, dodge=false, coolDown=3}, ability2={damage=2, stun=true, dodge=false, coolDown=2}}
+Feb 05, 2022 7:25:57 PM Game.ReadFromFile read
+INFO: Pokemon{name='Psyduck', HP=46, normalAttack=6, specialAttack=0, normalDefense=6, specialDefense=9, ability1={damage=2, stun=false, dodge=false, coolDown=4}, ability2={damage=2, stun=true, dodge=false, coolDown=5}}
+Feb 05, 2022 7:25:57 PM Game.ReadFromFile read
+INFO: Pokemon{name='Squirtle', HP=72, normalAttack=0, specialAttack=8, normalDefense=9, specialDefense=9, ability1={damage=4, stun=false, dodge=false, coolDown=3}, ability2={damage=2, stun=true, dodge=false, coolDown=2}}
+Feb 05, 2022 7:25:57 PM Game.ReadFromFile read
+INFO: FOURTH ADVENTURE BEGINS!
+Feb 05, 2022 7:25:57 PM Pokemons.ComparePokemons bestTwoPokemons
+INFO: The best pokemon from the first coach is Bulbasaur!
+Feb 05, 2022 7:25:57 PM Pokemons.ComparePokemons bestTwoPokemons
+INFO: The best pokemon from the second coach is Squirtle!
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: This duel is between the following two pokemons!
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Pokemon{name='Bulbasaur', HP=48, normalAttack=0, specialAttack=14, normalDefense=9, specialDefense=7, ability1={damage=6, stun=false, dodge=false, coolDown=4}, ability2={damage=5, stun=false, dodge=false, coolDown=3}}
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Pokemon{name='Squirtle', HP=72, normalAttack=0, specialAttack=8, normalDefense=9, specialDefense=9, ability1={damage=4, stun=false, dodge=false, coolDown=3}, ability2={damage=2, stun=true, dodge=false, coolDown=2}}
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Bulbasaur attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Squirtle attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Bulbasaur is 0
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Squirtle is 0
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Bulbasaur has 47 HP!
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Squirtle has 67 HP!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Bulbasaur attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Squirtle attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Bulbasaur is 0
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Squirtle is 0
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Bulbasaur has 46 HP!
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Squirtle has 62 HP!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Bulbasaur attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Squirtle attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Bulbasaur is 0
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Squirtle is 0
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Bulbasaur has 45 HP!
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Squirtle has 57 HP!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Bulbasaur attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Squirtle attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Bulbasaur is 0
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Squirtle is 0
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Bulbasaur has 44 HP!
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Squirtle has 52 HP!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Bulbasaur attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Squirtle attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Bulbasaur is 0
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Squirtle is 0
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Bulbasaur has 43 HP!
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Squirtle has 47 HP!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Bulbasaur attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Squirtle attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Bulbasaur is 0
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Squirtle is 0
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Bulbasaur has 42 HP!
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Squirtle has 42 HP!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Bulbasaur attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Squirtle attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Bulbasaur is 0
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Squirtle is 0
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Bulbasaur has 41 HP!
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Squirtle has 37 HP!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Bulbasaur attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Squirtle attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Bulbasaur is 0
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Squirtle is 0
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Bulbasaur has 40 HP!
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Squirtle has 32 HP!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Bulbasaur attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Squirtle attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Bulbasaur is 0
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Squirtle is 0
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Bulbasaur has 39 HP!
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Squirtle has 27 HP!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Bulbasaur attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Squirtle attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Bulbasaur is 0
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Squirtle is 0
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Bulbasaur has 38 HP!
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Squirtle has 22 HP!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Bulbasaur attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Squirtle attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Bulbasaur is 0
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Squirtle is 0
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Bulbasaur has 37 HP!
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Squirtle has 17 HP!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Bulbasaur attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Squirtle attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Bulbasaur is 0
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Squirtle is 0
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Bulbasaur has 36 HP!
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Squirtle has 12 HP!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Bulbasaur attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Squirtle attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Bulbasaur is 0
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Squirtle is 0
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Bulbasaur has 35 HP!
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Squirtle has 7 HP!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Bulbasaur attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Squirtle attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Bulbasaur is 0
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Squirtle is 0
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Bulbasaur has 34 HP!
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Squirtle has 2 HP!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Bulbasaur attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 pokemonsAttack
+INFO: Pokemon Squirtle attacks!
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Bulbasaur is 0
+Feb 05, 2022 7:25:57 PM Game.HelpBattle2 checkCooldown
+INFO: Cooldown ability 1 for Squirtle is 0
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Bulbasaur has 33 HP!
+Feb 05, 2022 7:25:57 PM Game.CoachesBattle battle
+INFO: Squirtle has -3 HP!
+Feb 05, 2022 7:25:57 PM Pokemons.PokemonHelperClassForBattle checkWinner
+INFO: Pokemon Bulbasaur wins!
+Feb 05, 2022 7:25:57 PM Pokemons.PokemonHelperClassForBattle checkWinner
+INFO: The first coach wins!
+Feb 05, 2022 7:25:57 PM Pokemons.PokemonHelperClassForBattle checkWinner
+INFO: The pokemon is now boosted
+Feb 05, 2022 7:25:57 PM Pokemons.PokemonHelperClassForBattle checkWinner
+INFO: Pokemon{name='Bulbasaur', HP=49, normalAttack=0, specialAttack=15, normalDefense=10, specialDefense=8, ability1={damage=6, stun=false, dodge=false, coolDown=4}, ability2={damage=5, stun=false, dodge=false, coolDown=3}}
